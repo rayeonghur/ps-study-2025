@@ -35,3 +35,4 @@ int main(void){
 ```
 
 정답 코드를 보고 (https://github.com/encrypted-def/basic-algo-lecture/blob/master/0x02/solutions/2490.cpp) 1의 개수를 세어서 인덱스로 사용하면 매핑이 간결하다는 것을 알게되었다.
+
